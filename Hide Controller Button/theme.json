@@ -1,0 +1,12 @@
+{
+  "name": "Hide Controller Button",
+  "version": "v1.0",
+  "author": "Lethal Hatred",
+  "inject": {
+    "shared.css": [
+      "SP"
+    ]
+  },
+  "manifest_version": 4,
+  "id": "3ff35d6-fdgf4-sgg4-sg4g-sa34w4awd"
+}
